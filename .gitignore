@@ -1,0 +1,30 @@
+﻿# ImageJ/Fiji temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Python cache (if helper scripts are added later)
+__pycache__/
+*.pyc
+
+# Temporary outputs
+tmp/
+temp/
+
+# Raw microscopy data are usually better stored outside GitHub.
+# Uncomment these patterns if you want Git to ignore such files:
+# *.tif
+# *.tiff
+# *.czi
+# *.nd2
+# *.lif
+# *.oir
+# *.dv
