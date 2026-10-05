@@ -5,9 +5,7 @@
 
 This repository contains a custom ImageJ Macro Language (`.ijm`) script intended to speed up the creation of representative images from multichannel microscopy TIFF files.
 
-The macro was developed in the context of microscopy and image-analysis workflows at the Autophagy Laboratory, JNCASR, Bengaluru, India. The original script records a completion date of 30 November 2023.
-
-> **Important:** This repository documents the macro as it is currently written. It is not a validated quantitative image-analysis pipeline, and the output should be inspected before use in a thesis, presentation, or publication.
+The macro was developed in the context of microscopy and image-analysis workflows at the Autophagy Laboratory, JNCASR, Bengaluru, India. The original script was written on 30 November 2023.
 
 ---
 
@@ -362,7 +360,7 @@ If you make a change, test it on a small set of representative files and documen
 
 ## 📜 Provenance
 
-The original macro identifies itself as a representative-image-making script derived from an object-based colocalization semi-automated ImageJ macro. Its embedded header records a completion date of **30 November 2023**, mentions contributors from the Autophagy Laboratory, JNCASR, and acknowledges Jishnu Goswami.
+The original macro for representative image-making was derived from an object-based, semi-automated ImageJ colocalization macro. It records a completion date of **30 November 2023**,  contributors from the Autophagy Laboratory, JNCASR, and a special acknowledgment to Jishnu Goswami.
 
 Please retain appropriate attribution when redistributing or adapting the script, and clarify any additional changes you make.
 
